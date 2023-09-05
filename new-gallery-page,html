@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kontakt</title>
+</head>
+<body>
+    
+    <h1>Här kan du kontakta mig: men snälla gör inte det</h1>
+
+    <section>
+        <ul>
+            <li>@aliciapiyi</li>
+            <li>@bypiyi</li>
+            <li>alicia.piyi@gmail.com</li>
+        </ul>
+    </section>
+
+    <a href="alicia.html">OM ALICIA</a> <br>
+    <a href="index.html">STARTSIDAN</a>
+
+</body>
+</html>
